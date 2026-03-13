@@ -1,0 +1,3 @@
+print "This is another JVE script"
+lua.wait 1
+print "Done waiting 1 second"
